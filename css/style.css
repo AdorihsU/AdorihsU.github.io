@@ -5,12 +5,26 @@ body {
     font-family: 'Kiwi Maru', serif;
 }
 
-div {
+h1 {
+    width: 60%;
     margin: 0 auto;
 }
 
-.contact_class{
-    float: left;
-    padding: 25px;
-    margin: auto 0;
+.center {
+    width: 60%;
+    margin: 0px auto;
+}
+
+footer {
+    width: 60%;
+    margin: 0px auto;
+}
+
+footer + p {
+    text-align: center;
+}
+
+.contact_p {
+    display: inline;
+    padding: 8px;
 }
