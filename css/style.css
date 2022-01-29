@@ -4,3 +4,13 @@
 body {
     font-family: 'Kiwi Maru', serif;
 }
+
+div {
+    margin: 0 auto;
+}
+
+.contact_class{
+    float: left;
+    padding: 25px;
+    margin: auto 0;
+}
